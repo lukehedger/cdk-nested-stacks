@@ -1,0 +1,4 @@
+- Parent Stack - with shared resource, e.g. API Gateway, EventBridge
+- Parameter Overrides
+- Self-mutating deployment pipeline
+- Rollbacks, synthetics (Puppeteer + local)

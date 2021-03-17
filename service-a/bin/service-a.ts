@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { App } from "@aws-cdk/core";
-import { CdkInitStack } from "../lib/cdk-init-stack";
+import { CdkInitStack } from "../lib/service-a-stack";
 
 const app = new App();
 
